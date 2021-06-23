@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "/proect-react/static/css/main.81a3a1de.chunk.css",
-    "main.js": "/proect-react/static/js/main.6b39b0a3.chunk.js",
-    "main.js.map": "/proect-react/static/js/main.6b39b0a3.chunk.js.map",
-    "runtime-main.js": "/proect-react/static/js/runtime-main.f9259107.js",
-    "runtime-main.js.map": "/proect-react/static/js/runtime-main.f9259107.js.map",
-    "static/js/2.76a89e4e.chunk.js": "/proect-react/static/js/2.76a89e4e.chunk.js",
-    "static/js/2.76a89e4e.chunk.js.map": "/proect-react/static/js/2.76a89e4e.chunk.js.map",
-    "static/css/3.299a2894.chunk.css": "/proect-react/static/css/3.299a2894.chunk.css",
-    "static/js/3.20c6952a.chunk.js": "/proect-react/static/js/3.20c6952a.chunk.js",
-    "static/js/3.20c6952a.chunk.js.map": "/proect-react/static/js/3.20c6952a.chunk.js.map",
+    "main.js": "/proect-react/static/js/main.d0c2575c.chunk.js",
+    "main.js.map": "/proect-react/static/js/main.d0c2575c.chunk.js.map",
+    "runtime-main.js": "/proect-react/static/js/runtime-main.ae1a466f.js",
+    "runtime-main.js.map": "/proect-react/static/js/runtime-main.ae1a466f.js.map",
+    "static/js/2.171d275a.chunk.js": "/proect-react/static/js/2.171d275a.chunk.js",
+    "static/js/2.171d275a.chunk.js.map": "/proect-react/static/js/2.171d275a.chunk.js.map",
+    "static/css/3.1ea42fbd.chunk.css": "/proect-react/static/css/3.1ea42fbd.chunk.css",
+    "static/js/3.fc798f3d.chunk.js": "/proect-react/static/js/3.fc798f3d.chunk.js",
+    "static/js/3.fc798f3d.chunk.js.map": "/proect-react/static/js/3.fc798f3d.chunk.js.map",
     "static/css/4.b776b0b6.chunk.css": "/proect-react/static/css/4.b776b0b6.chunk.css",
-    "static/js/4.8b268e49.chunk.js": "/proect-react/static/js/4.8b268e49.chunk.js",
-    "static/js/4.8b268e49.chunk.js.map": "/proect-react/static/js/4.8b268e49.chunk.js.map",
+    "static/js/4.cf68f5c8.chunk.js": "/proect-react/static/js/4.cf68f5c8.chunk.js",
+    "static/js/4.cf68f5c8.chunk.js.map": "/proect-react/static/js/4.cf68f5c8.chunk.js.map",
     "static/js/5.bae77c76.chunk.js": "/proect-react/static/js/5.bae77c76.chunk.js",
     "static/js/5.bae77c76.chunk.js.map": "/proect-react/static/js/5.bae77c76.chunk.js.map",
     "index.html": "/proect-react/index.html",
-    "static/css/3.299a2894.chunk.css.map": "/proect-react/static/css/3.299a2894.chunk.css.map",
+    "static/css/3.1ea42fbd.chunk.css.map": "/proect-react/static/css/3.1ea42fbd.chunk.css.map",
     "static/css/4.b776b0b6.chunk.css.map": "/proect-react/static/css/4.b776b0b6.chunk.css.map",
     "static/css/main.81a3a1de.chunk.css.map": "/proect-react/static/css/main.81a3a1de.chunk.css.map",
-    "static/js/2.76a89e4e.chunk.js.LICENSE.txt": "/proect-react/static/js/2.76a89e4e.chunk.js.LICENSE.txt",
+    "static/js/2.171d275a.chunk.js.LICENSE.txt": "/proect-react/static/js/2.171d275a.chunk.js.LICENSE.txt",
     "static/media/loader.e80fa95c.gif": "/proect-react/static/media/loader.e80fa95c.gif",
     "static/media/users1.png": "/proect-react/static/media/users1.96e310a6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9259107.js",
-    "static/js/2.76a89e4e.chunk.js",
+    "static/js/runtime-main.ae1a466f.js",
+    "static/js/2.171d275a.chunk.js",
     "static/css/main.81a3a1de.chunk.css",
-    "static/js/main.6b39b0a3.chunk.js"
+    "static/js/main.d0c2575c.chunk.js"
   ]
 }
